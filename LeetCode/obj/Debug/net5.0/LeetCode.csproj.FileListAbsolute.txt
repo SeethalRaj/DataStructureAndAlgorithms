@@ -1,0 +1,16 @@
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.exe
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.deps.json
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.runtimeconfig.json
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.runtimeconfig.dev.json
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.dll
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.pdb
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.csproj.AssemblyReference.cache
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.AssemblyInfoInputs.cache
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.AssemblyInfo.cs
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.dll
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\refint\LeetCode.dll
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.pdb
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.genruntimeconfig.cache
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\ref\LeetCode.dll

@@ -1,0 +1,17 @@
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\DataStructureAndAlgorithms.exe
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\DataStructureAndAlgorithms.deps.json
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\DataStructureAndAlgorithms.runtimeconfig.json
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\DataStructureAndAlgorithms.runtimeconfig.dev.json
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\DataStructureAndAlgorithms.dll
+D:\Projects\Algorithms\LeetCode\LeetCode\bin\Debug\net5.0\DataStructureAndAlgorithms.pdb
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.csproj.AssemblyReference.cache
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.AssemblyInfoInputs.cache
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.AssemblyInfo.cs
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.dll
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\refint\DataStructureAndAlgorithms.dll
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.pdb
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.genruntimeconfig.cache
+D:\Projects\Algorithms\LeetCode\LeetCode\obj\Debug\net5.0\ref\DataStructureAndAlgorithms.dll
+D:\Projects\DataStructureAndAlgorithms\LeetCode\obj\Debug\net5.0\DataStructureAndAlgorithms.pdb
